@@ -2,7 +2,7 @@
 - 👀 I’m interested in apps development and web development
 - 🌱 I’m currently learning c++, Java and pyhon
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email:bayuluyakuba@gmail.com or whatsapp:+233248908944
+- 📫 How to reach me on email:bayuluyakuba@gmail.com or whatsapp:+233557800016
 
 <!---
 Yakubuh/Yakubuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
