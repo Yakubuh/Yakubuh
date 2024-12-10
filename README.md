@@ -15,8 +15,9 @@ My work lies at the intersection of:
 I am passionate about applying these fields to solve real-world challenges in physics and technology. My undergraduate thesis involved developing a real-time liquid level monitoring system using ultrasonic and radar sensors.
 
 🌟 Other Projects and Outreach
-Developed various IoT and AI-driven projects using microcontrollers and sensors.
-Conduct educational outreach programs for high school students, teaching Photonics, Arduino programming, and Sensor Interfacing to inspire the next generation of scientists.
+* Developed various IoT and AI-driven projects using microcontrollers and sensors.
+* Conduct educational outreach programs for high school students, teaching Photonics, Arduino programming, and Sensor Interfacing to inspire the next generation of scientists.
+
 🚀 Future Goals
 I aim to push the boundaries of Quantum Computing, Machine Learning, and Quantum Technologies, contributing to cutting-edge research and innovation.
 
